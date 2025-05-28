@@ -1,2 +1,2 @@
 # first-repo
-first repo
+print("hello world!!ഗഹ")
